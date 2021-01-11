@@ -1,19 +1,63 @@
 # Adit-Portfolio
 My first portfolio
 
-# [Project 1: Data Science Salary Estimator](https://github.com/PlayingNumbers/ds_salary_proj) 
-* Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
-* Scraped over 1000 job descriptions from glassdoor using python and selenium
-* Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark. 
-* Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model. 
-* Built a client facing API using flask 
+### Adit Vikram Mishra 
+### College: Jain University, Bengaluru 
+### Email: aditvikram15@gmail.com
+### Contact Number: +91 9205021839
 
-![](/images/positions_by_state.png)
+# EDUCATIONAL QUALIFICATIONS
+|COLLEGE/SCHOOL	            | QUALIFICATION                   	                              |CGPA/PERCENTAGE|
+|---------------------------|-----------------------------------------------------------------|---------------|
+|Jain University, Bengaluru	|Pursuing 2nd year of the CSE Course                              |	8.5/10        |
+|DPS, FARIDABAD             |	Higher Senior Secondary (Class XII);  Affiliated to CBSE Board	|90%            |
+|DPS, FARIDABAD             |	Senior Secondary (Class X); Affiliated to CBSE Board	          |90%            |
+
+# ADDITIONAL QUALIFICATIONS AND COURSES
+|COURSE         |	TIME PERIOD/PROGRESS       |
+|---------------|----------------------------|
+|Python language|		Foundation course cleared|
 
 
-# [Project 2: Ball Image Classifier](https://github.com/PlayingNumbers/ball_image_classifier) 
-For this example project I built a ball classifier to identify balls from different sports. This could be useful for someone who is new to sports from a certain country. They could take a picture of a ball and an app could serve them some information about the history and rules of the game. This is the underlying model for building something with those capabilities. 
 
-I was able to get the model to predict the sport of the ball with 94% accuracy after minimal tuning. For most of the cases this would meet the need of an end user of the app. To get these results I used transfer learning on a CNN trained on resnet34. This created time efficiencies and solid results. 
 
-![](/images/matrix_results.png)
+
+# ACADEMIC ACHIEVEMENTS
+●	Is consistent with grades above 8 point in all subjects
+●	I also scored 94 percentile in my JEE Mains Exam.
+
+# PRACTICAL EXPERIENCE
+●	Fantasy Cricket — Project in Python 3
+This project was made during my completion of my python learning course. It comprises the use of PyQt5 and SQLite3 libraries in depth.
+●	Hospital Management — Project in C++
+
+This project was made as my final project for my class XIIth. It uses various C++ libraries and the concept of data handling to manage the information of patients in a hospital.
+
+
+# SKILLS
+●	C++
+●	Python
+●	C
+●	C#
+●	JavaScript
+●	CSS
+●	HTML
+●	Photography
+●	Leadership
+
+
+# ORGANISATIONAL EXPERIENCE
+●	Group leader in college project in 1st year (led a group 10)
+●	An active member of college computer science club (Enigma)
+●	An active member of college Cultural club
+●	An active member of college Photography club (Pixels)
+●	attended 5 MUNs.
+
+
+# PRE-UNIVERSITY ACHIEVEMENTS
+●	Class prefect in XIth
+●	2nd prize in Espice photography competition in DPS, Noida
+●	2nd prize in national orchestra competition
+
+# HOBBIES AND INTEREST
+I am an art lover. I love all forms of art let it be music, sketching, etc. I know how to play tabla and piano. I have competed in Cricket, football, taekwondo, roller skating, badminton and Ultimate frisbee competitions. I sometimes pencil sketch in my free time or practice my instruments. When I am outside, scenic views and wildlife compels me to pick up DSLR and click some shots. Competitive coding helps me to get my brain  working. I have 300 points in problem solving in HackerRank. 
